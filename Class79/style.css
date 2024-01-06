@@ -1,0 +1,9 @@
+.c input, .c button
+{
+    padding: 10px;
+    margin: 10px;
+}
+#sort1
+{
+    display: none;
+}
